@@ -22,9 +22,9 @@
 - Custom design, web and apps
 
 ✨Help and customer support
-  Contact us :  https://hashkrio.com/contact
-  Call or Chat : https://wa.me/919879048212
-  Support : https://support.hashkrio.com
+ -  Contact us :  https://hashkrio.com/contact
+ -  Call or Chat : https://wa.me/919879048212
+ -  Support : https://support.hashkrio.com
 
 <!---
 hashkrio/hashkrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
