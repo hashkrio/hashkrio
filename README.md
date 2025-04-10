@@ -4,7 +4,7 @@
      game-changing tools, and top-notch development. Our goal is straightforward yet powerful: to create remarkable digital experiences
      that foster deep connections.
 
-✨Our dynamic team of engineers, strategists, and visionaries at Hashkrio is committed to transforming concepts into potent digital realities. We collaborate with innovative companies ready to leave their mark, offering a broad range of services from full-stack development to branding and digital marketing.
+✨Hashkrio is committed to transforming concepts into potent digital realities. We collaborate with innovative companies ready to leave their mark, offering a broad range of services from full-stack development to branding and digital marketing.
 
 ✨Our experience spans platforms and sectors, offering customized solutions that boost engagement, boost productivity, and guarantee success. We take great satisfaction in continuing to be at the forefront of innovation and producing outcomes that directly address your objectives.
 
