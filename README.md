@@ -14,6 +14,7 @@
 - SattvaHR
 - NirmalPOS
 - Knowshine ERP
+- Hexablind
 - GenX QR
 - Web Design
 - Web Development
